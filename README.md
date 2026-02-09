@@ -1,5 +1,4 @@
 # Laravel 11 - Admin Products & Cart API
-# Laravel 11 - Admin Products & Cart API
 
 This project is built as part of a technical assignment.
 It includes **Admin Authentication**, **Product Management (CRUD)**, **Customer Authentication (Sanctum)**, **Cart Module**, **Checkout Logic**. 
@@ -77,8 +76,8 @@ Create sample products
 
 Admin Credentials (Seeder)
 Admin user is created via database seeder.
-Email: admin@example.com
-Password: password
+Email: admin@admin.com
+Password: admin@2026
 
 ### 6 Run the Application
 php artisan serve
